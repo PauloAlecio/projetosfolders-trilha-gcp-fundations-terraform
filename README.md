@@ -1,9 +1,12 @@
-# projetosfolders-trilha-gcp-fundations-terraform
-Terraform para criação de estrutura de Pastas e Projetos no GCP
+# Desafio:
+Desenho de uma organização de grupo de acessos e de uma organização para o GCP utilizando o Draw.io
 
 
 ## Diagrama Organização GCP
 ![Organização-GCP](https://github.com/PauloAlecio/projetosfolders-trilha-gcp-fundations-terraform/blob/main/assets/organizacao-gcp.png)
+
+
+##
 
 ## Diagrama Grupos GCP
 ![Grupos-GCP](https://github.com/PauloAlecio/projetosfolders-trilha-gcp-fundations-terraform/blob/main/assets/organizacao_grupos_gcp.png)
